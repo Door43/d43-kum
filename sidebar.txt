@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kum:home|Door43 (kum)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kum|d43-kum repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kum/archive/master.zip|d43-kum.zip]]
+
+**Recent Changes**
+{{changes>ns = kum}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kum|Ethnologue data]]
+
